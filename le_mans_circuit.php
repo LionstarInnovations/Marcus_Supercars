@@ -2,9 +2,9 @@
 
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Home - Max Gym</title>
+    <title>Le Mans Circuit | Marcus' Supercars</title>
     <meta charset="utf-8">
-    <meta name="author" content="Marcus McFarlane" />
+    <meta name="author" content="Buying Supercars and participating in Race Events" />
     <meta name="description" content="Max Gym fitness" />
     <link rel="stylesheet" href="main.css" type="text/css" />
 	<link href="print_stylesheet.css" rel="stylesheet" type="text/css" media="print" />
